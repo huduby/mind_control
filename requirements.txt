@@ -1,0 +1,13 @@
+streamlit
+gspread
+google-auth
+pandas
+numpy
+torch
+transformers
+peft
+accelerate
+safetensors
+openai
+requests
+torchvision
