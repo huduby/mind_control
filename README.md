@@ -89,7 +89,7 @@ GPT 공감 레터 생성
 
 ---
 
-## Data Source
+## 📚 Data Source
 
 본 프로젝트는 AI Hub의 「감성대화말뭉치」 데이터를 활용하여 개발되었습니다.
 
