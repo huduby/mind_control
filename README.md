@@ -1,2 +1,2 @@
 # mind_control
-rasberrypie_work
+라즈베리파이 과제
